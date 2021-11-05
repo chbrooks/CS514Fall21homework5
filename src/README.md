@@ -75,7 +75,8 @@ Part 3: Interpreter:
  
  The interpreter is the engine that runs everything. It should be able to either:
 
-Task 6: prompt the user for input, read in a string, run it through the lexer, then parse it and display the result. 
+Task 6: prompt the user for input, read in a string, run it through the lexer, then parse it and display the result.
+
 Task 7: Read a series of sentences from a file and sequentially parse them and display their results.
  
 
