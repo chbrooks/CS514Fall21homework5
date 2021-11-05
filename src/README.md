@@ -1,4 +1,4 @@
-### Project 2: Lexer, Parser, Interpreter
+### Homework 5: Lexer, Parser, Interpreter
 
 ##### Due Monday 11/15 at the start of class.
 
